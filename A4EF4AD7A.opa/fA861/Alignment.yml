@@ -1,0 +1,19 @@
+segment_sources:
+  I10EE648D:
+    type: origin_type
+    relation: translation
+    language: en
+  I19636597:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  6761edd98e9e47f4aa1cb1796256c727:
+    I10EE648D: 066e0c77399a47ce8aa44b9adc785597
+    I19636597: 7b6b30338f674786b815c55963a84e66
+  ae7bd2aba3934b99a3bece37b14bb3d1:
+    I10EE648D: 6a6e2490222b4e4ba6ced434a49c70ca
+    I19636597: ad81647a5a724388802c9fe5e173b466
+  6ec93fe4c10d4c45bd4ea8279231ffef:
+    I10EE648D: 35fa586220b848f38fac066b15e16ef6
+    I19636597: 5ba9ce928b7344d792a8b842b7e6d605
